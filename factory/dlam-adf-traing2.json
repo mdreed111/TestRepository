@@ -1,0 +1,9 @@
+{
+	"name": "dlam-adf-traing2",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "288b8f4d-7517-48f3-8626-c30c37f8cea1",
+		"tenantId": "39c3716b-6471-4fd5-ac04-a7dbaa32782b"
+	}
+}
